@@ -6,6 +6,10 @@
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>video</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera Permission description</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone Permission description</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
